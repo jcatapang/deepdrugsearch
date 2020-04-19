@@ -65,4 +65,4 @@ Here are the various features and updates to be expected in the months to come:
 
 ## Support
 
-Having trouble with Deep Drug Search? Please e-mail Jasper Kyle Catapang through [university e-mail address](jcatapang@up.edu.ph) or his [Github e-mail address](leeseojun17@naver.com).
+Having trouble with Deep Drug Search? Please e-mail Jasper Kyle Catapang through his [university e-mail address](mailto:jcatapang@up.edu.ph) or his [Github e-mail address](mailto:leeseojun17@naver.com).
