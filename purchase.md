@@ -24,5 +24,7 @@ If you are interested with the software, we have a variety of licenses available
 <br>A student license is for end-users who are still taking their undergraduate, graduate, and post-graduate studies.<br>
 <b>Price: USD 450.00</b>
 
+<script type="text/javascript" src="https://form.jotform.com/jsform/201092455916455"></script>
+
 <br><br>
 [Back to top](https://leeseojun17.github.io/deepdrugsearch/purchase)
