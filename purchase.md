@@ -5,19 +5,19 @@ If you are interested with the software, we have a variety of licenses available
 ### Professional licenses
 
 ![Commercial](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_license_commercial.png){:height="480px" width="360px"}
-A commercial license is for end-users who are using the software for commercial purposes. This includes but are not limited to: use of the software for drug prototyping, manufacturing, deployment, and selling. 
+<br>A commercial license is for end-users who are using the software for commercial purposes. This includes but are not limited to: use of the software for drug prototyping, manufacturing, deployment, and selling.<br>
 Price: USD 600.00
 
 ![Academic](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_license_academic.png){:height="480px" width="360px"}
-An academic license is for end-users who are using the software for research purposes who are part of the academe and are no longer students.
+<br>An academic license is for end-users who are using the software for research purposes who are part of the academe and are no longer students.<br>
 Price: USD 500.00
 
 ![Government](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_license_government.png){:height="480px" width="360px"}
-A government license is for end-users who are using the software for government purposes.
+<br>A government license is for end-users who are using the software for government purposes.<br>
 Price: USD 500.00
 
 ### Student license
 
 ![Government](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_license_student.png){:height="480px" width="360px"}
-A student license is for end-users who are still taking their undergraduate, graduate, and post-graduate studies.
+<br>A student license is for end-users who are still taking their undergraduate, graduate, and post-graduate studies.<br>
 Price: USD 300.00
