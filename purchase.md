@@ -22,7 +22,7 @@ If you are interested with the software, we have a variety of licenses available
 
 <img src="https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_license_student.png" height="259px" width="640px">
 <br>A student license is for end-users who are still taking their undergraduate, graduate, and post-graduate studies.<br>
-<b>Price: USD 450.00</b>
+<b>Price: USD 450.00</b><br>
 
 <script type="text/javascript" src="https://form.jotform.com/jsform/201092455916455"></script>
 
