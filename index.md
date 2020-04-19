@@ -12,7 +12,9 @@ The software was built on the code utilized by Jasper Kyle Catapang and Dr. Juni
 
 Deep Drug Search has two main components for now:
 1. Ligand generation
-2. Ligand-protein docking
+2. Drug-likeness filters
+3. Ligand-protein docking
+4. ADMET
 
 ### Ligand generation
 
@@ -33,6 +35,8 @@ After generating, the SMILES of the new ligands are saved as a CSV file named `d
 
 You also have the options to save the conforming generated ligands as SDF files or as PDBQT files. PDBQT files are required for the docking module of DDS. The SDF files would be saved under the `resources/data` directory, while the PDBQT files would be saved under `pdbqt`.
 
+### Drug-likeness filters
+
 ### Ligand-protein docking
 
 Here is the docking interface of the Deep Drug Search software:
@@ -47,6 +51,8 @@ Please fill in the center x, y, and z and the dimension x, y, and z first before
 If your inputs are properly formatted, the AUTODOCK button would launch Autodock Vina using the parameters you have set.
 
 ![DDS Docking](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds%20docking.JPG  "DDS Docking")
+
+### ADMET
 
 ## System Requirements
 
@@ -68,7 +74,6 @@ If you are interested with the software, check out the available licenses for pu
 Here are the various features and updates to be expected in the months to come:
 1. Support for Mac OS X
 2. Import basis drugs via bulk SDF file and not just via bulk SMILES file
-3. Include the calculation of drug toxicity in the `drugs.csv` generated for the newly generated ligands
 
 ## Support
 
