@@ -1,6 +1,6 @@
 [Home](https://leeseojun17.github.io/deepdrugsearch/)
 ## End-User License Agreement
-[English](https://leeseojun17.github.io/deepdrugsearch/eula#DDS-EULA-in-English) - [日本語](https://leeseojun17.github.io/deepdrugsearch/eula#DDS-EULA-in-Japanese) - [한국어](https://leeseojun17.github.io/deepdrugsearch/eula#DDS-EULA-in-Korean)
+[English](https://leeseojun17.github.io/deepdrugsearch/eula#dds-eula-in-english) - [日本語](https://leeseojun17.github.io/deepdrugsearch/eula#dds-eula-in-japanese) - [한국어](https://leeseojun17.github.io/deepdrugsearch/eula#dds-eula-in-korean)
 
 ## DDS EULA in English
 End-User License Agreement (EULA) of Deep Drug Search<br>
