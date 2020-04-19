@@ -1,4 +1,4 @@
-[Purchase](https://leeseojun17.github.io/deepdrugsearch/purchase) [License Agreement](https://leeseojun17.github.io/deepdrugsearch/eula)
+[Purchase](https://leeseojun17.github.io/deepdrugsearch/purchase) - [System Requirements](https://leeseojun17.github.io/deepdrugsearch/#system-requirements) - [License Agreement](https://leeseojun17.github.io/deepdrugsearch/eula)
 
 ## Deep Drug Search
 
