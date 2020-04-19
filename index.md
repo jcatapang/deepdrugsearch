@@ -56,6 +56,10 @@ To run Deep Drug Search without any issue, here are the minimum specifications:
 
 Support for the Mac OS X version is still under development.
 
+## Purchase
+
+If you are interested with the software, check out the available licenses for purchase right [here](https://leeseojun17.github.io/deepdrugsearch/purchase).
+
 ## In-development
 
 Here are the various features and updates to be expected in the months to come:
