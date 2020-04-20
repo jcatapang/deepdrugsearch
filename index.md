@@ -15,6 +15,8 @@ Deep Drug Search has three main components:
 2. Ligand-protein docking
 3. ADMET+
 
+All three modules require a stable internet connection since the license is checked every time to avoid unauthorized use of the software.
+
 ### Ligand generation
 
 Here is the drug generation user interface:
@@ -34,7 +36,7 @@ After generating, the SMILES of the new ligands are saved as a SMILES file named
 
 The 2D representations (images) of these ligands are saved under the directory named `visualization`.
 
-![DDS Visualization](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds%20mol.JPG "DDS Visualization")
+![DDS Visualization](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_mol.JPG "DDS Visualization")
 
 You also have the options to save the conforming generated ligands as SDF files or as PDBQT files. PDBQT files are required for the docking module of DDS. The SDF files would be saved under the `resources/data` directory, while the PDBQT files would be saved under `pdbqt`.
 
