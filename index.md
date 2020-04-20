@@ -12,9 +12,8 @@ The software was built on the code utilized by Jasper Kyle Catapang and Dr. Juni
 
 Deep Drug Search has two main components for now:
 1. Ligand generation
-2. Drug-likeness filters
-3. Ligand-protein docking
-4. ADMET
+2. Ligand-protein docking
+3. ADMET+
 
 ### Ligand generation
 
@@ -29,13 +28,11 @@ New ligands are generated with a touch of a button! Just select the number of li
 
 ![DDS Generating](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds%20gen%20progress.jpg "DDS Generating")
 
-After generating, the SMILES of the new ligands are saved as a CSV file named `drugs.csv` under the `resources/data` directory. It contains the QED and the water-octanol partition coefficient or logP of the drugs (indicating solubility). Please note that the number that you set for generation won't match the number of the actual yield, since not all of the designs of the generated ligands conform to actual chemical structures. The 2D representations of these ligands are saved under the directory named `visualization`.
+After generating, the SMILES of the new ligands are saved as a SMILES file named `generated_smiles.smi` under the `resources/data` directory. It contains the QED and the water-octanol partition coefficient or logP of the drugs (indicating solubility). Please note that the number that you set for generation won't match the number of the actual yield, since not all of the designs of the generated ligands conform to actual chemical structures. The 2D representations of these ligands are saved under the directory named `visualization`.
 
 ![DDS Generated](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds%20gen%20finished.JPG "DDS Generated")
 
 You also have the options to save the conforming generated ligands as SDF files or as PDBQT files. PDBQT files are required for the docking module of DDS. The SDF files would be saved under the `resources/data` directory, while the PDBQT files would be saved under `pdbqt`.
-
-### Drug-likeness filters
 
 ### Ligand-protein docking
 
@@ -52,7 +49,16 @@ If your inputs are properly formatted, the AUTODOCK button would launch Autodock
 
 ![DDS Docking](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds%20docking.JPG  "DDS Docking")
 
-### ADMET
+### ADMET+
+
+Here is the ADMET+ interface of the Deep Drug Search software:
+![DDS ADMET](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_admet_ui.JPG "DDS ADMET")
+
+ADMET is an abbreviation in pharmacokinetics for "absorption, distribution, metabolism, and excretion" with "toxicity" included. It describes the disposition of a pharmaceutical compound within an organism. Enter the properly formatted SMILES representation of a drug to compute for its ADMET descriptors. For additional information, the drug-likeness filters are also computed: the Brenk filter and the PAINS filter.
+
+If your input SMILES is properly formatted, the fields would be filled in by the software.
+
+![DDS ADMET Results](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_admet_ui_results.JPG "DDS ADMET Results")
 
 ## System Requirements
 
