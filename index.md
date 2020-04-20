@@ -60,13 +60,15 @@ If your input SMILES is properly formatted, the fields would be filled in by the
 
 ![DDS ADMET Results](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_admet_ui_results.JPG "DDS ADMET Results")
 
+The results of the ADMET+ module can be saved as a CSV file under the `resources/data` folder named `admet_results.csv`. Every time a SMILES text is ran and exported as a CSV file, the file gets appended with the newly added ADMET results.
+
 ## System Requirements
 
 To run Deep Drug Search without any issue, here are the minimum specifications:
 * Operating system: Windows 10
 * RAM: 8 GB
 * CPU: Intel core i5 or AMD Ryzen 7
-* Free space: 2.3 GB
+* Free space: 2.5 GB
 * Internet connection: 500 KBps
 
 Support for the Mac OS X version is still under development.
