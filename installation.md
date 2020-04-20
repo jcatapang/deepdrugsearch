@@ -53,4 +53,4 @@ Click "Yes" when prompted with the User Account Control.<br>
 Any questions or issues? Contact Jasper Kyle Catapang via his [university e-mail address](mailto:jcatapang@up.edu.ph) or his [Github e-mail address](mailto:leeseojun17@naver.com). 
 
 <br><br>
-[Back to top](https://leeseojun17.github.io/deepdrugsearch/)
+[Back to top](https://leeseojun17.github.io/deepdrugsearch/installation)
