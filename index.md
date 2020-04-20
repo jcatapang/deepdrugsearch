@@ -1,4 +1,4 @@
-[Purchase](https://leeseojun17.github.io/deepdrugsearch/purchase) - [System Requirements](https://leeseojun17.github.io/deepdrugsearch/#system-requirements) - [License Agreement](https://leeseojun17.github.io/deepdrugsearch/eula)
+[Purchase](https://leeseojun17.github.io/deepdrugsearch/purchase) - [System Requirements](https://leeseojun17.github.io/deepdrugsearch/#system-requirements) - [License Agreement](https://leeseojun17.github.io/deepdrugsearch/eula) - [Privacy Policy](https://leeseojun17.github.io/deepdrugsearch/#privacy-policy)
 
 ## Deep Drug Search
 
@@ -86,6 +86,10 @@ Here are the various features and updates to be expected in the months to come:
 ## Support
 
 Having trouble with Deep Drug Search? Please e-mail Jasper Kyle Catapang through his [university e-mail address](mailto:jcatapang@up.edu.ph) or his [Github e-mail address](mailto:leeseojun17@naver.com).
+
+## Privacy Policy
+
+Installing and using the software, you agree to let Deep Drug Search obtain a machine identification number from your device in order to monitor licensing only.
 
 <br><br>
 [Back to top](https://leeseojun17.github.io/deepdrugsearch/)
