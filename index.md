@@ -77,8 +77,6 @@ To run Deep Drug Search without any issue, here are the minimum specifications:
 * Free space: 2.5 GB
 * Internet connection: 500 KBps
 
-Support for the Mac OS X version is still under development.
-
 ## Purchase
 
 If you are interested with the software, check out the available licenses for purchase right [here](https://leeseojun17.github.io/deepdrugsearch/purchase).
@@ -90,8 +88,7 @@ If you wish to be guided on the installation process of Deep Drug Search, please
 ## In-development
 
 Here are the various features and updates to be expected in the months to come:
-1. Support for Mac OS X
-2. Import basis drugs via bulk SDF file and not just via bulk SMILES file
+1. Import basis drugs via bulk SDF file and not just via bulk SMILES file
 
 ## Support
 
