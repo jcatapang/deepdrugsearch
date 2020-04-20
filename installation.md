@@ -3,25 +3,41 @@
 ### Locating the installer
 
 Download the installer from the link provided to you via e-mail after the verification process. The downloader is 440 MB in size. Double click on it. Click "Yes", when prompted with User Account Control.
+
 ![Installer](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/installer.JPG "Installer")
 
 ### Navigating the installer
 
 Click the "I accept the agreement" option after reading the EULA, then press "Next".<br>
-![EULA](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/eula.JPG "EULA")
+
+![EULA](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/eula.jpg "EULA")
+
 You would be greeted with the "Thank you for downloading" prompt. Click "Next".<br>
-![Preinstall](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/preinstall.JPG "Preinstall")
+
+![Preinstall](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/preinstall.jpg "Preinstall")
+
 Select your preferred destination of installation. After selecting your preferred directory, choose "Next".<br>
-![Destination](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/destination.JPG "Destination")
+
+![Destination](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/destination.jpg "Destination")
+
 Select your Start Menu folder or opt not to have any. Click "Next".<br>
+
 ![Start Menu](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/startmenu.JPG "Start Menu")
+
 You may opt to add a desktop shortcut. Click "Next" after deciding.<br>
+
 ![Desktop Shortcut](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/shortcut.JPG "Desktop Shortcut")
+
 Click "Install" when ready.<br>
+
 ![Ready to Install](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/ready%20install.JPG "Ready to Install")
+
 After waiting for the installation to complete, you would be prompted with a notification. Press "Next" after.<br>
+
 ![Completion](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/postinstall.JPG "Completion")
+
 You would be asked to launch Deep Drug Search. Uncheck it and press "Finish".
+
 ![Finished](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/finish.JPG "Finished")
 
 ### Starting the software
