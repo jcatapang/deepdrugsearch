@@ -1,4 +1,4 @@
-[Purchase](https://leeseojun17.github.io/deepdrugsearch/purchase) - [System Requirements](https://leeseojun17.github.io/deepdrugsearch/#system-requirements) - [License Agreement](https://leeseojun17.github.io/deepdrugsearch/eula) - [Privacy Policy](https://leeseojun17.github.io/deepdrugsearch/#privacy-policy) - [Installation Instructions](https://leeseojun17.github.io/installation)
+[Purchase](https://leeseojun17.github.io/deepdrugsearch/purchase) - [System Requirements](https://leeseojun17.github.io/deepdrugsearch/#system-requirements) - [License Agreement](https://leeseojun17.github.io/deepdrugsearch/eula) - [Privacy Policy](https://leeseojun17.github.io/deepdrugsearch/#privacy-policy) - [Installation Instructions](https://leeseojun17.github.io/deepdrugsearch/installation)
 
 ## Deep Drug Search
 
@@ -85,7 +85,7 @@ If you are interested with the software, check out the available licenses for pu
 
 ## Installation Instructions
 
-If you wish to be guided on the installation process of Deep Drug Search, please refer to [this](https://leeseojun17.github.io/installation) hyperlink.
+If you wish to be guided on the installation process of Deep Drug Search, please refer to [this](https://leeseojun17.github.io/deepdrugsearch/installation) hyperlink.
 
 ## In-development
 
