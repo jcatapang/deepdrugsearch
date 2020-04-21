@@ -47,7 +47,10 @@ You would be asked to launch Deep Drug Search. Uncheck it and press "Finish".
 Navigate to the installation directory.<br>
 Change the license key in the text file named `serial_key.txt` with the license key provided to you via e-mail. It comes with the installer.<br>
 Right click on the `dds.exe` program.<br>
-Select "Run as administrator".<br>
+Select "Properties".<br>
+Navigate to the "Compatibility" tab and check the box for "Run this program as an administrator."<br>
+Click "Apply" and "OK."<br>
+Double click the `dds.exe` file.<br>
 Click "Yes" when prompted with the User Account Control.<br>
 <br>
 Do you have any questions or issues? Contact Jasper Kyle Catapang via his [university e-mail address](mailto:jcatapang@up.edu.ph) or his [Github e-mail address](mailto:leeseojun17@naver.com). 
