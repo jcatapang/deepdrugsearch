@@ -8,21 +8,21 @@ If you are interested with the software, we have a variety of licenses available
 
 <img src="https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_license_commercial.png" height="259px" width="640px">
 <br>A commercial license is for end-users who are using the software for commercial purposes. This includes but are not limited to: use of the software for drug prototyping, manufacturing, deployment, and selling.<br>
-<b>Price: USD 1000.00</b>
+<b>Price: USD 1500.00</b>
 
 <img src="https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_license_academic.png" height="259px" width="640px">
 <br>An academic license is for end-users who are using the software for research purposes who are part of the academe and are no longer students.<br>
-<b>Price: USD 800.00</b>
+<b>Price: USD 1200.00</b>
 
 <img src="https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_license_government.png" height="259px" width="640px">
 <br>A government license is for end-users who are using the software for government purposes.<br>
-<b>Price: USD 800.00</b>
+<b>Price: USD 1200.00</b>
 
 ### Student license
 
 <img src="https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_license_student.png" height="259px" width="640px">
 <br>A student license is for end-users who are still taking their undergraduate, graduate, and post-graduate studies.<br>
-<b>Price: USD 600.00</b><br><br>
+<b>Price: USD 700.00</b><br><br>
 
 [Back to top](https://leeseojun17.github.io/deepdrugsearch/purchase)
 <br><br>
