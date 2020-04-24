@@ -10,12 +10,13 @@ The software was built on the code utilized by Jasper Kyle Catapang and Dr. Juni
 
 ## Software Features
 
-Deep Drug Search has three main components:
+Deep Drug Search has four main components:
 1. Ligand generation
 2. Ligand-protein docking
 3. ADMET+
+4. Molecular viewer
 
-All three modules require a stable internet connection since the license is checked every time to avoid unauthorized use of the software.
+The first three modules require a stable internet connection since the license is checked every time to avoid unauthorized use of the software.
 
 ### Ligand generation
 
@@ -67,6 +68,23 @@ If your input SMILES is properly formatted, the fields would be filled in by the
 ![DDS ADMET Results](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_admet_ui_results.JPG "DDS ADMET Results")
 
 The results of the ADMET+ module can be saved as a CSV file under the `resources/data` folder named `admet_results.csv`. Every time a SMILES text is ran and exported as a CSV file, the file gets appended with the newly added ADMET results.
+
+### Viewer
+
+Here is the Viewer interface of DDS:
+![DDS Viewer](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds%20viewer.JPG "DDS Viewer")
+
+The viewer currently accepts SDF files of ligands, and PDBQT files of proteins. The developer is working hardly on providing support for more formats. The Viewer module has a lot of style options. Here is a preview of the stick style on a protein.
+
+![DDS Viewer Stick](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds%20viewer%20stick.JPG "DDS Viewer Stick")
+
+There is also an option to toggle the amino acid labels of the protein. The image below illustrates the feature.
+
+![DDS Viewer Amino Acids](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds%20viewer%20labels.JPG "DDS Viewer Amino Acids")
+
+Lastly, the surfaces can be made visible (van der Waals = 1, molecular surface = 2). The image below shows the van der Waals surface display in action.
+
+![DDS Viewer van der Waals](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds%20viewer%20surface.JPG "DDS Viewer van der Waals")
 
 ## System Requirements
 
