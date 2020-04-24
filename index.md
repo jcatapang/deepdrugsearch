@@ -69,9 +69,9 @@ If your input SMILES is properly formatted, the fields would be filled in by the
 
 The results of the ADMET+ module can be saved as a CSV file under the `resources/data` folder named `admet_results.csv`. Every time a SMILES text is ran and exported as a CSV file, the file gets appended with the newly added ADMET results.
 
-### Viewer
+### Molecular viewer
 
-Here is the Viewer interface of DDS:
+Here is the viewer interface of DDS:
 ![DDS Viewer](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds%20viewer.JPG "DDS Viewer")
 
 The viewer currently accepts SDF files of ligands, and PDBQT files of proteins. The PDBQT files of ligands can only be rendered as a "Sphere." The developer is working on providing support for more formats. The Viewer module has a lot of style options. Here is a preview of the stick style on a protein.
