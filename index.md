@@ -92,7 +92,7 @@ To run Deep Drug Search without any issue, here are the minimum specifications:
 * Operating system: Windows 10
 * RAM: 8 GB
 * CPU: Intel core i5 or AMD Ryzen 7
-* Free space: 2.5 GB
+* Free space: 2.6 GB
 * Internet connection: 500 KBps
 
 ## Purchase
