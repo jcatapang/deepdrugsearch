@@ -74,7 +74,7 @@ The results of the ADMET+ module can be saved as a CSV file under the `resources
 Here is the Viewer interface of DDS:
 ![DDS Viewer](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds%20viewer.JPG "DDS Viewer")
 
-The viewer currently accepts SDF files of ligands, and PDBQT files of proteins. The developer is working hardly on providing support for more formats. The Viewer module has a lot of style options. Here is a preview of the stick style on a protein.
+The viewer currently accepts SDF files of ligands, and PDBQT files of proteins. The PDBQT files of ligands can only be rendered as a "Sphere." The developer is working on providing support for more formats. The Viewer module has a lot of style options. Here is a preview of the stick style on a protein.
 
 ![DDS Viewer Stick](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds%20viewer%20stick.JPG "DDS Viewer Stick")
 
@@ -107,6 +107,7 @@ If you wish to be guided on the installation process of Deep Drug Search, please
 
 Here are the various features and updates to be expected in the months to come:
 1. Import basis drugs via bulk SDF file and not just via bulk SMILES file
+2. More molecule formats for the Viewer module
 
 ## Support
 
