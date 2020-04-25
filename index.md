@@ -63,7 +63,7 @@ If your inputs are properly formatted, the AUTODOCK button would launch Autodock
 Here is the ADMET+ interface of the Deep Drug Search software:
 ![DDS ADMET](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_admet_ui.JPG "DDS ADMET")
 
-ADMET is an abbreviation in pharmacokinetics for "absorption, distribution, metabolism, and excretion" with "toxicity" included. It describes the disposition of a pharmaceutical compound within an organism. Enter the properly formatted SMILES representation of a drug to compute for its ADMET descriptors. For additional information, the drug-likeness filters are also computed: the Brenk filter and the PAINS filter.
+ADMET is an abbreviation in pharmacokinetics for "absorption, distribution, metabolism, and excretion" with "toxicity" included. It describes the disposition of a pharmaceutical compound within an organism. Enter the properly formatted SMILES representation of a drug to compute for its ADMET descriptors. For additional information, the drug-likeness filters are also computed: the Brenk filter and the PAINS filter. Each descriptor is predicted by machine learning. Classifiers were used for categorical predictions and regressors were used for numerical predictions.
 
 If your input SMILES is properly formatted, the fields would be filled in by the software.
 
