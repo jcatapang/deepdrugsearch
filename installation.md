@@ -4,7 +4,7 @@
 
 ### Locating the installer
 
-Download the installer from the link provided to you via e-mail after the verification process. The downloader is 440 MB in size. Double click on it. Click "Yes", when prompted with User Account Control.
+Download the installer from the link provided to you via e-mail after the verification process. The installer is 479 MB in size. Double click on it. Click "Yes", when prompted with User Account Control.
 
 ![Installer](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/installer.JPG "Installer")
 
