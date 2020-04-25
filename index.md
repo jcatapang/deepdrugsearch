@@ -1,6 +1,6 @@
 [Purchase](https://leeseojun17.github.io/deepdrugsearch/purchase) - [System Requirements](https://leeseojun17.github.io/deepdrugsearch/#system-requirements) - [License Agreement](https://leeseojun17.github.io/deepdrugsearch/eula) - [Privacy Policy](https://leeseojun17.github.io/deepdrugsearch/#privacy-policy) - [Installation Instructions](https://leeseojun17.github.io/deepdrugsearch/installation)
 
-![DDS Logo](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_logo.png "DDS Logo")
+![DDS Logo](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_logo_github.png "DDS Logo")
 
 ## Deep Drug Search
 
