@@ -109,6 +109,12 @@ Here are the various features and updates to be expected in the months to come:
 1. Import basis drugs via bulk SDF file and not just via bulk SMILES file
 2. More molecule formats for the Viewer module
 
+## Partners
+
+Deep Drug Search is currently integrated in the following institutions.
+
+![DDS Partners](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/partners.png "DDS Partners")
+
 ## Support
 
 Having trouble with Deep Drug Search? Please e-mail Jasper Kyle Catapang through his [university e-mail address](mailto:jcatapang@up.edu.ph) or his [Github e-mail address](mailto:leeseojun17@naver.com).
