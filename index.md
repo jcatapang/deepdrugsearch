@@ -1,5 +1,7 @@
 [Purchase](https://leeseojun17.github.io/deepdrugsearch/purchase) - [System Requirements](https://leeseojun17.github.io/deepdrugsearch/#system-requirements) - [License Agreement](https://leeseojun17.github.io/deepdrugsearch/eula) - [Privacy Policy](https://leeseojun17.github.io/deepdrugsearch/#privacy-policy) - [Installation Instructions](https://leeseojun17.github.io/deepdrugsearch/installation)
 
+![DDS Logo](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_logo.png "DDS Logo")
+
 ## Deep Drug Search
 
 Welcome to the project page of Deep Drug Search. Deep Drug Search (DDS) is a drug generation software that utilizes the power of deep learning to generate new ligands from existing drugs. Through the deep learning process, the drugs generated inherit the potency and efficacy of the existing drugs.
