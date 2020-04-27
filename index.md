@@ -97,6 +97,10 @@ To run Deep Drug Search without any issue, here are the minimum specifications:
 * Free space: 2.6 GB
 * Internet connection: 500 KBps
 
+![NVIDIA](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/nvidia.png "NVIDIA")
+
+If you wish to use GPU acceleration, DDS supports NVIDIA® GPU card with CUDA® Compute Capability 3.5 or higher. Check the list of CUDA-enabled GPU cards by NVIDIA [here](https://developer.nvidia.com/cuda-gpus). Then, download and install [CUDA Toolkit 10](https://developer.nvidia.com/cuda-10.0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exenetwork). Windows x86_64 NVIDIA Driver Version should be >= 411.31. Find the latest Windows NVIDIA driver [here](https://www.nvidia.com/Download/index.aspx?lang=en-us). Disclaimer: DDS is not sponsored by NVIDIA.   
+
 ## Purchase
 
 If you are interested with the software, check out the available licenses for purchase right [here](https://leeseojun17.github.io/deepdrugsearch/purchase).
