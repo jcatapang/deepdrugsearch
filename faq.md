@@ -4,7 +4,7 @@
 
 ### Compatibility
 1. Will Deep Drug Search be available on Mac OS X and Linux?<br>
-Deep Drug Search will be available on Mac OS X within the year. Unfortunately, the same cannot be said about Linux.<br><br>
+Deep Drug Search will be available on Mac OS X within the year. Unfortunately, the same cannot be said about Linux.<br>
 2. Does Deep Drug Search support AMD GPU cards?<br>
 Deep Drug Search does not support AMD ROCm and no plans of enabling support exist at the moment.<br>
 3. Can I try to run Deep Drug Search on my device even if some components don't meet the requirements posted?<br>
@@ -27,5 +27,11 @@ Discounts in the form of coupon codes are released from time to time. Please mak
 If you are not 100% satisfied with your purchase, you can submit a report stating your reason and get a decision regarding refunds upon deliberation. You can report a license for up to 7 days from the date you purchased it.<br>
 3. What are the available payment options?<br>
 You may purchase licenses through Paypal, credit card, or debit card. (MasterCard, Visa, UnionPay, American Express, Discover)
+
+### Features
+1. How can I suggest a feature to future versions of the software?
+You may e-mail your suggestion to leeseojun17@naver.com
+2. Feature X isn't working. What do I do?
+Please send a detailed report to leeseojun17@naver.com and provide screenshots/recordings.
 
 [Back to top](https://leeseojun17.github.io/deepdrugsearch/faq)
