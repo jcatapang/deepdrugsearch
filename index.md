@@ -8,7 +8,7 @@
 
 <p style='text-align: justify;'>All of this is possible through variational autoencoders. A variational autoencoder is an autoencoder whose encodings distribution is regularised during the training in order to ensure that its latent space has good properties allowing us to generate some new data. An autoencoder is a type of artificial neural network used to learn efficient data codings in an unsupervised manner. The aim of an autoencoder is to learn a representation for a set of data, typically for dimensionality reduction, by training the network to ignore noise.</p>
 
-<p style='text-align: justify;'>The software was built on the code utilized by Jasper Kyle Catapang and Dr. Junie B. Billones of the University of the Philippines Manila, on their drug discovery research paper entitled [On the Generation of Novel Ligands for SARS-CoV-2 Protease and ACE2 Receptor via Constrained Graph Variational Autoencoders](https://chemrxiv.org/articles/On_the_Generation_of_Novel_Ligands_for_SARS-CoV-2_Protease_and_ACE2_Receptor_via_Constrained_Graph_Variational_Autoencoders/12011157), which was preprinted on March 24, 2020, and is now being reviewed for journal publication.</p>
+<p style='text-align: justify;'>The software was built on the code utilized by Jasper Kyle Catapang and Dr. Junie B. Billones of the University of the Philippines Manila, on their drug discovery research paper entitled<a href="https://chemrxiv.org/articles/On_the_Generation_of_Novel_Ligands_for_SARS-CoV-2_Protease_and_ACE2_Receptor_via_Constrained_Graph_Variational_Autoencoders/12011157">On the Generation of Novel Ligands for SARS-CoV-2 Protease and ACE2 Receptor via Constrained Graph Variational Autoencoders</a>, which was preprinted on March 24, 2020, and is now being reviewed for journal publication.</p>
 
 ## Software Features
 
@@ -99,7 +99,7 @@ To run Deep Drug Search without any issue, here are the minimum specifications:
 
 <img src="https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/nvidia.png" width="96">
 
-<p style='text-align: justify;'>If you wish to use GPU acceleration, DDS supports NVIDIA® GPU card with CUDA® Compute Capability 3.5 or higher. Check the list of CUDA-enabled GPU cards by NVIDIA [here](https://developer.nvidia.com/cuda-gpus). Then, download and install [CUDA Toolkit 10](https://developer.nvidia.com/cuda-10.0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exenetwork). Windows x86_64 NVIDIA Driver Version should be >= 411.31. Find the latest Windows NVIDIA driver [here](https://www.nvidia.com/Download/index.aspx?lang=en-us). Disclaimer: DDS is not sponsored by NVIDIA.</p>
+<p style='text-align: justify;'>If you wish to use GPU acceleration, DDS supports NVIDIA® GPU card with CUDA® Compute Capability 3.5 or higher. Check the list of CUDA-enabled GPU cards by NVIDIA <a href="https://developer.nvidia.com/cuda-gpus">here</a>. Then, download and install <a href="https://developer.nvidia.com/cuda-10.0-download-archive?target_os=Windows&target_arch=x86_64&target_version=10&target_type=exenetwork">CUDA Toolkit 10</a>. Windows x86_64 NVIDIA Driver Version should be >= 411.31. Find the latest Windows NVIDIA driver <a href="https://www.nvidia.com/Download/index.aspx?lang=en-us">here</a>. Disclaimer: DDS is not sponsored by NVIDIA.</p>
 
 ## Purchase
 
