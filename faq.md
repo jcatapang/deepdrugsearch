@@ -29,9 +29,9 @@ If you are not 100% satisfied with your purchase, you can submit a report statin
 You may purchase licenses through Paypal, credit card, or debit card. (MasterCard, Visa, UnionPay, American Express, Discover)
 
 ### Features
-1. How can I suggest a feature to future versions of the software?
-You may e-mail your suggestion to leeseojun17@naver.com
-2. Feature X isn't working. What do I do?
+1. How can I suggest a feature to future versions of the software?<br>
+You may e-mail your suggestion to leeseojun17@naver.com<br>
+2. Feature X isn't working. What do I do?<br>
 Please send a detailed report to leeseojun17@naver.com and provide screenshots/recordings.
 
 [Back to top](https://leeseojun17.github.io/deepdrugsearch/faq)
