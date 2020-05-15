@@ -119,7 +119,7 @@ Here are the various features and updates to be expected in the months to come:
 
 Deep Drug Search is currently integrated in the following institutions:
 
-TBA
+![DDS Partners](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/partners.png "DDS Partners")
 
 ## Support
 
