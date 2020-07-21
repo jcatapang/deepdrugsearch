@@ -19,6 +19,7 @@ The license is non-transferable.<br>
 The full license spans for an entire lifetime except for instances of a breach of the End User License Agreement.<br>
 4. Do you offer free trials?<br>
 You may request for free trial licenses by e-mailing leeseojun17@naver.com.
+
 <!---
 ### Purchase
 1. Do you have discounts?<br>
