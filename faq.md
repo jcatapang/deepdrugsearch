@@ -20,13 +20,13 @@ The full license spans for an entire lifetime except for instances of a breach o
 4. Do you offer free trials?<br>
 You may request for free trial licenses by e-mailing leeseojun17@naver.com.
 
-### Purchase
+()[### Purchase
 1. Do you have discounts?<br>
 Discounts in the form of coupon codes are released from time to time. Please make sure to stay tuned!<br>
 2. What is your refund policy?<br>
 If you are not 100% satisfied with your purchase, you can submit a report stating your reason and get a decision regarding refunds upon deliberation. You can report a license for up to 7 days from the date you purchased it.<br>
 3. What are the available payment options?<br>
-You may purchase licenses through Paypal, credit card, or debit card. (MasterCard, Visa, UnionPay, American Express, Discover)
+You may purchase licenses through Paypal, credit card, or debit card. (MasterCard, Visa, UnionPay, American Express, Discover)]
 
 ### Features
 1. How can I suggest a feature to future versions of the software?<br>
