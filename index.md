@@ -1,4 +1,4 @@
-[Purchase](https://leeseojun17.github.io/deepdrugsearch/purchase) - [System Requirements](https://leeseojun17.github.io/deepdrugsearch/#system-requirements) - [License Agreement](https://leeseojun17.github.io/deepdrugsearch/eula)<br>[Privacy Policy](https://leeseojun17.github.io/deepdrugsearch/#privacy-policy) - [Installation Instructions](https://leeseojun17.github.io/deepdrugsearch/installation) - [FAQ](https://leeseojun17.github.io/deepdrugsearch/faq)
+[System Requirements](https://leeseojun17.github.io/deepdrugsearch/#system-requirements) - [License Agreement](https://leeseojun17.github.io/deepdrugsearch/eula)<br>[Privacy Policy](https://leeseojun17.github.io/deepdrugsearch/#privacy-policy) - [Installation Instructions](https://leeseojun17.github.io/deepdrugsearch/installation) - [FAQ](https://leeseojun17.github.io/deepdrugsearch/faq)
 
 ![DDS Logo](https://raw.githubusercontent.com/leeseojun17/deepdrugsearch/master/graphics/dds_logo_github.png "DDS Logo")
 
@@ -103,7 +103,7 @@ To run Deep Drug Search without any issue, here are the minimum specifications:
 
 ## Purchase
 
-If you are interested with the software, check out the available licenses for purchase right [here](https://leeseojun17.github.io/deepdrugsearch/purchase).
+If you are interested with the software, please request for a demo thru email at jcatapang@up.edu.ph or leeseojun17@naver.com
 
 ## Installation Instructions
 
