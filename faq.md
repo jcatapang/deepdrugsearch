@@ -12,13 +12,11 @@ Yes, you can try to run Deep Drug Search, but we will not be liable in any damag
 
 ### License
 1. I changed my machine and now I can't use my license key on my new device. What do I do?<br>
-Send an e-mail to leeseojun17@naver.com and please attach your proof of purchase.<br>
+Send an e-mail to leeseojun17@naver.com and please attach your proof of request.<br>
 2. Can I transfer my license to a different user?<br>
 The license is non-transferable.<br>
 3. When does my license expire?<br>
 The full license spans for an entire lifetime except for instances of a breach of the End User License Agreement.<br>
-4. Do you offer free trials?<br>
-You may request for free trial licenses by e-mailing leeseojun17@naver.com.
 
 ### Features
 1. How can I suggest a feature to future versions of the software?<br>
