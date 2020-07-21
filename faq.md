@@ -20,6 +20,14 @@ The full license spans for an entire lifetime except for instances of a breach o
 4. Do you offer free trials?<br>
 You may request for free trial licenses by e-mailing leeseojun17@naver.com.
 
+### Features
+1. How can I suggest a feature to future versions of the software?<br>
+You may e-mail your suggestion to leeseojun17@naver.com<br>
+2. Feature X isn't working. What do I do?<br>
+Please send a detailed report to leeseojun17@naver.com and provide screenshots/recordings.
+
+[Back to top](https://leeseojun17.github.io/deepdrugsearch/faq)
+
 <!---
 ### Purchase
 1. Do you have discounts?<br>
@@ -30,11 +38,3 @@ for up to 7 days from the date you purchased it.<br>
 3. What are the available payment options?<br>
 [You may purchase licenses through Paypal, credit card, or debit card. (MasterCard, Visa, UnionPay, American Express, Discover)
 ---!>
-
-### Features
-1. How can I suggest a feature to future versions of the software?<br>
-You may e-mail your suggestion to leeseojun17@naver.com<br>
-2. Feature X isn't working. What do I do?<br>
-Please send a detailed report to leeseojun17@naver.com and provide screenshots/recordings.
-
-[Back to top](https://leeseojun17.github.io/deepdrugsearch/faq)
