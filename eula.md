@@ -1,6 +1,6 @@
-[Home](https://leeseojun17.github.io/deepdrugsearch/)
+[Home](https://jcatapang.github.io/deepdrugsearch/)
 ## End-User License Agreement
-[English](https://leeseojun17.github.io/deepdrugsearch/eula#dds-eula-in-english) - [日本語](https://leeseojun17.github.io/deepdrugsearch/eula#dds-eula-in-japanese) - [한국어](https://leeseojun17.github.io/deepdrugsearch/eula#dds-eula-in-korean)
+[English](https://jcatapang.github.io/deepdrugsearch/eula#dds-eula-in-english) - [日本語](https://jcatapang.github.io/deepdrugsearch/eula#dds-eula-in-japanese) - [한국어](https://jcatapang.github.io/deepdrugsearch/eula#dds-eula-in-korean)
 
 ## DDS EULA in English
 End-User License Agreement (EULA) of Deep Drug Search<br>
@@ -41,7 +41,7 @@ It will also terminate immediately if you fail to comply with any term of this E
 ### Governing Law
 This EULA agreement, and any dispute arising out of or in connection with this EULA agreement, shall be governed by and construed in accordance with the laws of the Philippines.
 
-[Back to Top](https://leeseojun17.github.io/deepdrugsearch/eula)
+[Back to Top](https://jcatapang.github.io/deepdrugsearch/eula)
 
 ## DDS EULA in Japanese
 End-User License Agreement (EULA) of Deep Drug Search<br>
@@ -82,7 +82,7 @@ Jasper Kyle Catapangは第三者にこのソフトウェアを使用するため
 ### 統治法
 本EULA協定及び本EULA協定において発生し、又はこれに関連して発生する全ての紛争は、フィリピンの法律に基づいて解される。
 
-[Back to Top](https://leeseojun17.github.io/deepdrugsearch/eula)
+[Back to Top](https://jcatapang.github.io/deepdrugsearch/eula)
 
 ## DDS EULA in Korean
 End-User License Agreement (EULA) of Deep Drug Search<br>
@@ -124,4 +124,4 @@ Jasper Kyle Catapang은 제3자에게 이 소프트웨어를 사용하기 위한
 ### 통치법
 본 EULA 협정 및 본 EULA 협정에서 발생하거나 이와 관련하여 발생하는 모든 분쟁은 필리핀 법률에 의거하여 해석된다.
 
-[Back to Top](https://leeseojun17.github.io/deepdrugsearch/eula)
+[Back to Top](https://jcatapang.github.io/deepdrugsearch/eula)
