@@ -1,4 +1,4 @@
-[Home](https://leeseojun17.github.io/deepdrugsearch/)
+[Home](https://jcatapang.github.io/deepdrugsearch/)
 
 ## Frequently Asked Questions
 
@@ -12,7 +12,7 @@ Yes, you can try to run Deep Drug Search, but we will not be liable in any damag
 
 ### License
 1. I changed my machine and now I can't use my license key on my new device. What do I do?<br>
-Send an e-mail to leeseojun17@naver.com and please attach your proof of request.<br>
+Send an e-mail to jcatapang@naver.com and please attach your proof of request.<br>
 2. Can I transfer my license to a different user?<br>
 The license is non-transferable.<br>
 3. When does my license expire?<br>
@@ -20,11 +20,11 @@ The full license spans for an entire lifetime except for instances of a breach o
 
 ### Features
 1. How can I suggest a feature to future versions of the software?<br>
-You may e-mail your suggestion to leeseojun17@naver.com<br>
+You may e-mail your suggestion to jcatapang@naver.com<br>
 2. Feature X isn't working. What do I do?<br>
-Please send a detailed report to leeseojun17@naver.com and provide screenshots/recordings.
+Please send a detailed report to jcatapang@naver.com and provide screenshots/recordings.
 
-[Back to top](https://leeseojun17.github.io/deepdrugsearch/faq)
+[Back to top](https://jcatapang.github.io/deepdrugsearch/faq)
 
 <!---
 ### Purchase
